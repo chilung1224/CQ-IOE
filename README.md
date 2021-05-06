@@ -17,6 +17,10 @@ Canbus x 1
 
 Usb 5v type A x 1
 
+# Schematic
+
+https://github.com/chilung1224/CQ-IOE/blob/main/Schematic_CQ-IOE_2021-05-06.pdf
+
 # io mapping:
   部分pin需移除LCD support才能使用
   
