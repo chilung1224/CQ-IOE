@@ -1,5 +1,5 @@
 # CQ-IOE
-Beaglebone Black IO expansion
+Beaglebone Black IO expansion for codesys
 
 Chong Qi Electric Co. 創琦電機有限公司
 TEL: 07-3743323
