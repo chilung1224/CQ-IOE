@@ -36,7 +36,7 @@ Usb 5v type A x 1
   
 [IO mapping](https://github.com/chilung1224/CQ-IOE/blob/main/IO%20mapping.pdf)
 
-# how to remove LCD support:
+# How to remove LCD support:
 go to /boot/uEnv.txt
 
 modify blow line
