@@ -5,6 +5,12 @@ Chong Qi Electric Co. 創琦電機有限公司
 
 Type :  CQ-IOE
 
+# PCB
+
+![image](picture or gif url)
+
+![image](picture or gif url)
+
 # interface:
 
 Digital Output x 24
