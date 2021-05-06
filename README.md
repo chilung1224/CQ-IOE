@@ -36,6 +36,8 @@ Usb 5v type A x 1
   
 [IO mapping](https://github.com/chilung1224/CQ-IOE/blob/main/IO%20mapping.pdf)
 
+[codesys io setting](https://github.com/chilung1224/CQ-IOE/blob/main/GPIOs_P9_P8.csv)
+
 # How to remove LCD support:
 go to /boot/uEnv.txt
 
