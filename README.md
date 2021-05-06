@@ -18,4 +18,24 @@ Canbus x 1
 Usb 5v type A x 1
 
 # io mapping:
+  部分pin需移除LCD support才能使用
+  
 https://github.com/chilung1224/CQ-IOE/blob/main/IO%20mapping.pdf
+
+# how to remove LCD support:
+go to /boot/uEnv.txt
+
+modify blow line
+
+###Disable auto loading of virtual capes (emmc/video/wireless/adc)
+
+#disable_uboot_overlay_emmc=1
+
+disable_uboot_overlay_video=1
+
+#disable_uboot_overlay_audio=1
+
+#disable_uboot_overlay_wireless=1
+
+#disable_uboot_overlay_adc=1
+
