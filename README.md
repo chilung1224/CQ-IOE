@@ -7,12 +7,14 @@ TEL: 07-3743323
 Type :  CQ-IOE
 
 # PCB
+Dimension: 232mm x 78mm 
 
 ![image](https://github.com/chilung1224/CQ-IOE/blob/main/PCB_2D.jpg)
 
 ![image](https://github.com/chilung1224/CQ-IOE/blob/main/PCB_3D.jpg)
 
 # interface:
+24v Input x 1
 
 Digital Output x 24
 
@@ -26,12 +28,13 @@ Usb 5v type A x 1
 
 # Schematic
 
-https://github.com/chilung1224/CQ-IOE/blob/main/Schematic_CQ-IOE_2021-05-06.pdf
+[Schematic_CQ-IOE](https://github.com/chilung1224/CQ-IOE/blob/main/Schematic_CQ-IOE_2021-05-06.pdf)
+
 
 # io mapping:
   部分pin需移除LCD support才能使用
   
-https://github.com/chilung1224/CQ-IOE/blob/main/IO%20mapping.pdf
+[IO mapping](https://github.com/chilung1224/CQ-IOE/blob/main/IO%20mapping.pdf)
 
 # how to remove LCD support:
 go to /boot/uEnv.txt
