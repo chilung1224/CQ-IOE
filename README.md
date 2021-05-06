@@ -2,14 +2,15 @@
 Beaglebone Black IO expansion
 
 Chong Qi Electric Co. 創琦電機有限公司
+TEL: 07-3743323
 
 Type :  CQ-IOE
 
 # PCB
 
-![image](picture or gif url)
+![image](https://github.com/chilung1224/CQ-IOE/blob/main/PCB_2D.jpg)
 
-![image](picture or gif url)
+![image](https://github.com/chilung1224/CQ-IOE/blob/main/PCB_3D.jpg)
 
 # interface:
 
