@@ -39,6 +39,23 @@ Usb 5v type A x 1
 [codesys io setting](https://github.com/chilung1224/CQ-IOE/blob/main/GPIOs_P9_P8.csv)
 
 # io config:
+sudo nano TIIO-00A0.dts
+
+dtc -O dtb -o TIIO-00A0.dtbo -b 0 -@ TIIO-00A0.dts
+
+sudo cp TIIO-00A0.dtbo /lib/firmware/
+
+sudo nano /boot/uEnv.txt
+
+###Additional custom capes
+
+uboot_overlay_addr4=/lib/firmware/TIIO-00A0.dtbo
+
+#uboot_overlay_addr5=/lib/firmware/<file5>.dtbo
+
+#uboot_overlay_addr6=/lib/firmware/<file6>.dtbo
+
+#uboot_overlay_addr7=/lib/firmware/<file7>.dtbo
 
 [TIIO-00A0](https://github.com/chilung1224/CQ-IOE/blob/main/TIIO-00A0.dts)
 
