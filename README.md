@@ -38,6 +38,11 @@ Usb 5v type A x 1
 
 [codesys io setting](https://github.com/chilung1224/CQ-IOE/blob/main/GPIOs_P9_P8.csv)
 
+# io config:
+
+[TIIO-00A0](https://github.com/chilung1224/CQ-IOE/blob/main/TIIO-00A0.dts)
+
+
 # How to remove LCD support:
 go to /boot/uEnv.txt
 
