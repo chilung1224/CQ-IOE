@@ -16,9 +16,9 @@ Dimension: 232mm x 78mm
 # Interface:
 24v Input x 1
 
-Digital Output x 24
+Digital Output(NPN) x 24
 
-Digital Input x 24
+Digital Input(PNP) x 24
 
 RS485 x 1
 
