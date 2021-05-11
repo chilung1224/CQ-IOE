@@ -13,7 +13,7 @@ Dimension: 232mm x 78mm
 
 ![image](https://github.com/chilung1224/CQ-IOE/blob/main/PCB_3D.jpg)
 
-# interface:
+# Interface:
 24v Input x 1
 
 Digital Output x 24
@@ -31,14 +31,14 @@ Usb 5v type A x 1
 [Schematic_CQ-IOE](https://github.com/chilung1224/CQ-IOE/blob/main/Schematic_CQ-IOE_2021-05-06.pdf)
 
 
-# io mapping:
+# IO mapping:
   部分pin需移除LCD support才能使用
   
 [IO mapping](https://github.com/chilung1224/CQ-IOE/blob/main/IO%20mapping.pdf)
 
 [codesys io setting](https://github.com/chilung1224/CQ-IOE/blob/main/GPIOs_P9_P8.csv)
 
-# io config:
+# IO config:
 sudo nano TIIO-00A0.dts
 
 [TIIO-00A0](https://github.com/chilung1224/CQ-IOE/blob/main/TIIO-00A0.dts)
