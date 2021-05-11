@@ -41,6 +41,8 @@ Usb 5v type A x 1
 # io config:
 sudo nano TIIO-00A0.dts
 
+[TIIO-00A0](https://github.com/chilung1224/CQ-IOE/blob/main/TIIO-00A0.dts)
+
 dtc -O dtb -o TIIO-00A0.dtbo -b 0 -@ TIIO-00A0.dts
 
 sudo cp TIIO-00A0.dtbo /lib/firmware/
@@ -56,9 +58,6 @@ uboot_overlay_addr4=/lib/firmware/TIIO-00A0.dtbo
 #uboot_overlay_addr6=/lib/firmware/<file6>.dtbo
 
 #uboot_overlay_addr7=/lib/firmware/<file7>.dtbo
-
-[TIIO-00A0](https://github.com/chilung1224/CQ-IOE/blob/main/TIIO-00A0.dts)
-
 
 # How to remove LCD support:
 go to /boot/uEnv.txt
