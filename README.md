@@ -55,3 +55,10 @@ disable_uboot_overlay_video=1
 
 #disable_uboot_overlay_adc=1
 
+# Reference:
+https://github.com/beagleboard/capes/tree/master/beaglebone/Comms
+
+http://www.ofitselfso.com/BeagleNotes/BeagleboneBlackPinMuxModes.php
+
+https://learn.adafruit.com/introduction-to-the-beaglebone-black-device-tree/compiling-an-overlay
+
