@@ -18,7 +18,7 @@ Dimension: 232mm x 78mm
 
 Digital Output(NPN) x 24
 
-Digital Input(PNP) x 24
+Digital Input(Hight Enable) x 24
 
 RS485 x 1
 
