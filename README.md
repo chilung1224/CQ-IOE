@@ -51,9 +51,9 @@ sudo nano /boot/uEnv.txt
 
 ###Additional custom capes
 
-uboot_overlay_addr4=/lib/firmware/TIIO-00A0.dtbo
+uboot_overlay_addr4=/lib/firmware/BBORG_COMMS-00A.dtbo
 
-#uboot_overlay_addr5=/lib/firmware/<file5>.dtbo
+#uboot_overlay_addr5=/lib/firmware/TIIO-00A0.dtbo
 
 #uboot_overlay_addr6=/lib/firmware/<file6>.dtbo
 
