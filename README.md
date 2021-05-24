@@ -84,4 +84,7 @@ http://www.ofitselfso.com/BeagleNotes/BeagleboneBlackPinMuxModes.php
 https://learn.adafruit.com/introduction-to-the-beaglebone-black-device-tree/compiling-an-overlay
 
 http://www.embedded-things.com/bbb/enable-canbus-on-the-beaglebone-black/
+  
+https://kilobaser.com/beaglebone-black-device-tree-overlay-generator/
+  
 
