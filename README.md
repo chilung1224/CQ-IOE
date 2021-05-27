@@ -86,5 +86,6 @@ https://learn.adafruit.com/introduction-to-the-beaglebone-black-device-tree/comp
 http://www.embedded-things.com/bbb/enable-canbus-on-the-beaglebone-black/
   
 https://kilobaser.com/beaglebone-black-device-tree-overlay-generator/
-  
+
+https://github.com/RobertCNelson/linux-dev/issues/45
 
