@@ -88,4 +88,6 @@ http://www.embedded-things.com/bbb/enable-canbus-on-the-beaglebone-black/
 https://kilobaser.com/beaglebone-black-device-tree-overlay-generator/
 
 https://github.com/RobertCNelson/linux-dev/issues/45
+  
+https://stackoverflow.com/questions/66974345/how-to-create-custom-u-boot-overlay-for-gpio-pin-configuration-on-beaglebone-bla
 
